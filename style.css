@@ -27,7 +27,7 @@
     background-color: aqua;
     grid-column-start: 3;
     grid-row-start:1;
-    grid-row-end: 3;
+    grid-row-end: 3; 
 }
 .item3{
         background-color: aqua;
